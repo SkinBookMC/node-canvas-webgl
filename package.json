@@ -1,5 +1,5 @@
 {
-  "name": "node-canvas-webgl",
+  "name": "@skinbookmc/node-canvas-webgl",
   "version": "0.2.9",
   "description": "Integration of node-canvas and headless-gl.",
   "main": "lib/index.js",
@@ -22,7 +22,7 @@
     "three": "^0.125.2"
   },
   "dependencies": {
-    "canvas": "^2.6.0",
-    "gl": "^6.0.0"
+    "canvas": "^2.11.2",
+    "gl": "^8.0.2"
   }
 }
